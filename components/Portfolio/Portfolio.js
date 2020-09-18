@@ -8,7 +8,7 @@ export default () => {
       <p>(Pics Coming Soon...)</p>
       <div className="projects">
         <Project
-          name="Tirutsava (College Fest) Website"
+          name="Tirutsava - check -  (College Fest) Website"
           link="https://github.com/krish7777/Tirutsava2020-Final"
           description="The 2019 edition of the annual College fest of IIT Tirupati's website. The project was made using the MERN stack. I was a core memmber of the Web-Development Committee. I played a
 major role in the frontend team and worked together with the backend team to bring out the website in a
