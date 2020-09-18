@@ -1,0 +1,18 @@
+.project {
+    strong {
+        margin-right: 20px;
+        font-size: large;
+    }
+
+    padding-top:20px;
+    padding-bottom: 20px;
+
+    .about-project {
+        padding: 20px 0;
+    }
+
+    @media only screen and (min-width: 600px) {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+}

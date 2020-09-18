@@ -1,0 +1,34 @@
+.social-buttons-wrapper {
+  position: absolute;
+  bottom: 10vh;
+  left: 0;
+  right: 0;
+}
+
+.contact {
+  text-align: center;
+  /* background-color: #7DC2AD; */
+  padding-left: 8px;
+  padding-right: 8px;
+
+}
+
+.social-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.social-buttons a {
+  margin-left: 16px;
+  margin-top: 6px;
+}
+
+@media only screen and (min-width: 600px) {
+  .contact {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+}

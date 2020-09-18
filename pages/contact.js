@@ -1,9 +1,8 @@
-import Head from "next/head";
 import React from "react";
 import FullPage from "../components/fullpage/fullpage";
 
-const Home = () => {
+const PageTwo = () => {
   return <FullPage />;
 };
 
-export default Home;
+export default PageTwo;

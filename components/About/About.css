@@ -1,0 +1,30 @@
+.scroll-mouse {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.about {
+  background-color: #c38d9e;
+
+  text-align: center;
+  padding-left: 8px;
+  padding-right: 8px;
+
+}
+
+@media only screen and (min-width: 600px) {
+  .about {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .scroll-mouse {
+    margin-bottom: 56px;
+  }
+}
